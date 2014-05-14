@@ -23,7 +23,6 @@ typedef vector<int> VI;
 typedef vector<VI> VVI;
 llong INF = (1LL<<62);
 const int inf = (1LL<<30);
-const int maxn = 100010;
 
 int main(){
 	return 0;
